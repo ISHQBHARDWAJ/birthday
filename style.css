@@ -135,6 +135,6 @@ body {
 
 .cover {
   background: radial-gradient(circle farthest-corner at 80% 20%, hsla(303, 40%, 79%, 0.3) 0%, hsla(160, 16%, 96%, 0.1) 100%),
-  hsl(302, 79%, 83%) url("img/WhatsApp\ Image\ 2024-08-16\ at\ 8.52.47\ PM.jpeg") 50% / cover;
+  hsl(302, 79%, 83%) url("WhatsApp\ Image\ 2024-08-16\ at\ 8.52.47\ PM.jpeg") 50% / cover;
   color: hsl(302, 79%, 83%);
 }
